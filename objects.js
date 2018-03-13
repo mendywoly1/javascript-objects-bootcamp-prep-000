@@ -5,5 +5,3 @@ function updatePlaylist(playlist, artistName, songTitle){
   playlist, {[artistName] : songTitle})
 }
 
-
-  1) objects updatePlaylist(playlist, artistName, songTitle)
