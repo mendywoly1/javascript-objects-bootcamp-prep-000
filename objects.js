@@ -1,1 +1,1 @@
-var playlist {singer1 :"singerA", singer2: "singerB"}
+var playlist = {singer1 :"singerA", singer2: "singerB"}
